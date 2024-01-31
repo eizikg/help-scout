@@ -24,7 +24,8 @@
 		"@types/events": "*",
 		"@types/react": "*",
 		"@types/react-native": "*",
-		"events": "^3.0.0"
+		"events": "^3.0.0",
+		"typescript": "^5.3.3"
 	},
 	"keywords": [
 		"react",
