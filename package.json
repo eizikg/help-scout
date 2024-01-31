@@ -1,7 +1,7 @@
 {
 	"name": "react-native-help-scout",
 	"version": "0.1.2",
-	"main": "./dist/index.js",
+	"main": "./dist/index.ts",
 	"typings": "./dist/index.d.ts",
 	"repository": "git@github.com:codemotionapps/react-native-help-scout.git",
 	"author": "Dimitar Nestorov <opensource@dimitarnestorov.com> (https://dimitarnestorov.com)",
